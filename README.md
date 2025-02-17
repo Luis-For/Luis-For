@@ -1,47 +1,41 @@
-# Hola mundo, soy Javcho
+# Hola, soy Luis Ángel Fornaris Rodríguez 👋
 
-Soy un desarrollador full stack de Perú. Me considero un desarrollador de software hábil con buenas habilidades de pensamiento lógico.
+Soy estudiante de **Ingeniería de Sistemas** y me apasiona la programación, la tecnología y el desarrollo de aplicaciones. Actualmente estoy trabajando en diversos proyectos, entre ellos una aplicación web para la **clasificación de claves taxonómicas**.
 
-Quiero formar parte de una startup para cambiar la vida de las personas (o crear una) y ser colaborador de código abierto.
+## 🚀 Proyectos en los que estoy trabajando
+- **Taxokey**: Una aplicación web interactiva que utiliza claves taxonómicas para ayudar a los taxónomos y estudiantes a identificar animales y otros organismos. [Más información sobre el proyecto](#)
+- **Aplicación de Spring**: Aprendiendo a construir aplicaciones con Spring Framework. Actualmente trabajando con **APIs** y bases de datos en **PostgreSQL**.
 
-**Javier Arturo Chávez Sialer**
+## 🛠️ Habilidades
 
-**Hechos rápidos**
+- **Lenguajes de programación**:
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-*   Actualmente estoy trabajando en @SecuritecPerú (Vue+Adonis+socket.io+Mongo)
-*   Actualmente estoy aprendiendo Javascript en profundidad
+- **Frameworks**:
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-Aficiones aparte de la programación: Jugar baloncesto. Jugar videojuegos para un solo jugador
-Estoy pensando en escribir historias o un blog...
+- **Bases de datos**:
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Cómo contactarme:** javier-arturo12@hotmail.com
-[Currículum (antiguo)](URL de tu currículum)
+- **Otros**:
+  ![API](https://img.shields.io/badge/API-FF6F61?style=flat-square&logo=api&logoColor=white)
+  ![Desarrollo Web](https://img.shields.io/badge/Web-4B8B3B?style=flat-square&logo=web&logoColor=white)
 
-**Lenguajes y herramientas:**
+## 📚 Actualmente estoy aprendiendo
+- **Spring Framework**: Creación de controladores, manejo de archivos en bases de datos como BLOBs.
+- **Desarrollo de videojuegos 3D** con Unreal Engine.
 
-`JavaScript` `Node.js` `PHP` `Slim` `Laravel` `MySQL` `AWS` `Git`
-`HTML5` `CSS3` `MongoDB` `Flutter` `Socket.io` `Express` `Firebase` `Heroku`
+## 🖼️ Aquí tienes algunas imágenes de mis proyectos
 
-**Aspectos destacados**
+![Taxokey](https://example.com/link-to-image.jpg)
 
-*   Arctic Code Vault Contributor
+![Proyecto Spring](https://example.com/link-to-image.jpg)
 
-Ya que no quieres abandonar mi perfil todavía. Aquí tienes algunas cosas que puedes hacer:
+## 📬 Contáctame
+- Correo electrónico: [tuemail@example.com](mailto:tuemail@example.com)
+- LinkedIn: [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/tu-perfil)
 
-Sígueme en https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile y https://www.linkedin.com/help/linkedin/answer/a548467/-como-creo-un-buen-perfil-de-linkedin-?lang=es y sé parte de mi viaje... ¡y mira si puedo lograrlo o no!
-
-**Organizaciones**
-
-[Skrin](URL de Skrin)
-
-**Repositorios**
-
-[Nombre del repositorio 1](URL del repositorio 1) [Nombre del repositorio 2](URL del repositorio 2) [Nombre del repositorio 3](URL del repositorio 3)
-
-**Estadísticas de GitHub**
-
-[Imagen de tus estadísticas de GitHub]
-
-**Contribuciones**
-
-[Imagen de tus contribuciones]
+¡Gracias por visitar mi perfil! 😊
