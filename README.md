@@ -1,7 +1,13 @@
-# Hola, soy Luis Ángel Fornaris Rodríguez 👋
+## 🌎 Idiomas | Languages
+[Español](#español) | [English](#english) | [Français](#français)
 
-Soy estudiante de **Ingeniería de Sistemas** y me apasiona la programación, la tecnología y el desarrollo de aplicaciones. Actualmente estoy trabajando en diversos proyectos, entre ellos una aplicación web para la **clasificación de claves taxonómicas**.
+## 📌 Español
+Bienvenido a mi perfil...
+# Hola Mundo, soy Luis Ángel Fornaris Rodríguez 👋
 
+Soy estudiante de **Ingeniería de Sistemas** y me apasiona la programación, la tecnología y el desarrollo de aplicaciones. Actualmente estoy trabajando en diversos proyectos.
+
+Actualmente me encuentro traba
 ## 🚀 Proyectos en los que estoy trabajando
 - **Taxokey**: Una aplicación web interactiva que utiliza claves taxonómicas para ayudar a los taxónomos y estudiantes a identificar animales y otros organismos. [Más información sobre el proyecto](#)
 - **Aplicación de Spring**: Aprendiendo a construir aplicaciones con Spring Framework. Actualmente trabajando con **APIs** y bases de datos en **PostgreSQL**.
@@ -39,3 +45,12 @@ Soy estudiante de **Ingeniería de Sistemas** y me apasiona la programación, la
 - LinkedIn: [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/tu-perfil)
 
 ¡Gracias por visitar mi perfil! 😊
+
+## 📌 English
+Welcome to my profile...
+
+## 📌 Français
+Bienvenue sur mon profil...
+
+
+
