@@ -48,6 +48,8 @@ Actualmente me encuentro traba
 
 ## 📌 English
 Welcome to my profile...
+#Hello World! I'm Luis Angel Fornaris Rodriguez
+I'm a student of Ingenery of System and 
 
 ## 📌 Français
 Bienvenue sur mon profil...
