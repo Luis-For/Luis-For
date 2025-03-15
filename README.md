@@ -1,15 +1,11 @@
-## 🌎 Idiomas | Languages
-[Español](#español) | [English](#english) | [Français](#français)
-
-## 📌 Español
 Bienvenido a mi perfil...
-# Hola Mundo, soy Luis Ángel Fornaris Rodríguez 👋
+# Hola Mundo, soy Luis Ángel Fornaris Rodríguez
 
 Soy estudiante de **Ingeniería de Sistemas** y me apasiona la programación, la tecnología y el desarrollo de aplicaciones. Actualmente estoy trabajando en diversos proyectos.
 
 Actualmente me encuentro traba
 ## 🚀 Proyectos en los que estoy trabajando
-- **Taxokey**: Una aplicación web interactiva que utiliza claves taxonómicas para ayudar a los taxónomos y estudiantes a identificar animales y otros organismos. [Más información sobre el proyecto](#)
+- **Taxokey**: Una aplicación web interactiva que utiliza claves taxonómicas para ayudar a los taxónomos y estudiantes a identificar animales y otros organismos.
 - **Aplicación de Spring**: Aprendiendo a construir aplicaciones con Spring Framework. Actualmente trabajando con **APIs** y bases de datos en **PostgreSQL**.
 
 ## 🛠️ Habilidades
@@ -41,18 +37,9 @@ Actualmente me encuentro traba
 ![Proyecto Spring](https://example.com/link-to-image.jpg)
 
 ## 📬 Contáctame
-- Correo electrónico: [tuemail@example.com](mailto:tuemail@example.com)
-- LinkedIn: [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/tu-perfil)
+- Correo electrónico: [luisfor90@gmail.com](luisfor90@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/luis-%C3%A1ngel-fornaris-rodr%C3%ADguez-2146561a2/](https://www.linkedin.com/in/luis-%C3%A1ngel-fornaris-rodr%C3%ADguez-2146561a2/)
 
-¡Gracias por visitar mi perfil! 😊
-
-## 📌 English
-Welcome to my profile...
-#Hello World! I'm Luis Angel Fornaris Rodriguez
-I'm a student of Ingenery of System and 
-
-## 📌 Français
-Bienvenue sur mon profil...
-
+¡Gracias por visitar mi perfil!
 
 
