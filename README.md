@@ -1,9 +1,15 @@
+<img src="./img/Developer.gif" width="1000"/>
+
+---
+
 # Luis Ángel Fornaris Rodríguez  
 **Analista de Datos & Desarrollador Full Stack**  
 Santa Marta, Colombia  
 📞 305 4398894 | ✉️ [luisfor90@gmail.com](mailto:luisfor90@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/luis-%C3%A1ngel-fornaris-rodr%C3%ADguez-2146561a2/)
 
+---
+<!--![Header](./img/Developer.gif)-->
 ---
 
 ## 👨‍💻 Perfil Profesional
@@ -16,23 +22,23 @@ Apasionado por la escritura de código limpio, eficiente y escalable, enfocado e
 
 ## 🚀 Proyectos Destacados
 
-- **Taxokey**  
+*  **Taxokey**  
   Plataforma web para identificación de organismos basada en claves taxonómicas, diseñada para taxónomos y estudiantes.  
   [Repositorio](https://github.com/Luis-For/MorphoKey-ui-backend)
 
-- **API de Microservicios con Spring Boot**  
+* **API de Microservicios con Spring Boot**  
   Desarrollo de microservicios con Java y Spring Boot, incluyendo API Gateway, monitoreo y despliegue con Docker.  
   [Repositorio](https://gitfront.io/r/Luis-For/qd7ZDe3eLEbD/microservicios-spring/)
 
-- **Proyecto Big Data - Análisis Estadístico**  
+* **Proyecto Big Data - Análisis Estadístico**  
   Uso de SQL, Python y motores Big Data para análisis avanzado de datos agrícolas.  
   [Repositorio](https://github.com/Luis-For/BigDatatTest)
 
-- **Base de Datos SQL Postgres para Clasificación de Animales**  
+--- **Base de Datos SQL Postgres para Clasificación de Animales**  
   Desarrollo de base de datos relacional con análisis en Python para clasificación mediante claves taxonómicas.  
   [Repositorio](https://github.com/Luis-For/DataBaseFootball)
 
-- **API REST de Futbol con Spring Boot y React**  
+--- **API REST de Futbol con Spring Boot y React**  
   Backend y frontend para gestión de datos de futbolistas y partidos.  
   [Repositorio](https://github.com/Luis-For/Api-futbol)
 
@@ -41,16 +47,16 @@ Apasionado por la escritura de código limpio, eficiente y escalable, enfocado e
 ## 🛠️ Habilidades Técnicas
 
 - **Lenguajes de programación**  
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 - **Frameworks y herramientas**  
-  ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)  
-  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)  
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)  
+  ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 - **Bases de datos y Big Data**  
