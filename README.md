@@ -1,23 +1,22 @@
-<img src="./img/Developer.gif" width="1000"/>
-
+![Header](../Luis-For/img/github-header-image.png)
 ---
 
 # Luis Ángel Fornaris Rodríguez  
-**Analista de Datos & Desarrollador Full Stack**  
+**Desarrollador Full Stack & Analista de Datos**  
 Santa Marta, Colombia  
-📞 305 4398894 | ✉️ [luisfor90@gmail.com](mailto:luisfor90@gmail.com)  
+📞 305 4398894
+✉️ [luisfor90@gmail.com](mailto:luisfor90@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/luis-%C3%A1ngel-fornaris-rodr%C3%ADguez-2146561a2/)
+  <br/><img src="../Luis-For/img/icon-svg/portfolio.svg" width="20"> Portafolio</img>
 
----
-<!--![Header](./img/Developer.gif)-->
 ---
 
 ## 👨‍💻 Perfil Profesional
+### Desarrollador Full Stack
+Especializado en desarrollo backend con Java, Python y C#, utilizando frameworks como Spring Boot y Django para crear aplicaciones robustas, seguras y escalables. Complementa su experiencia con sólidos conocimientos en frontend, dominando React y Vue.js para la construcción de interfaces gráficas modernas, intuitivas y responsivas. Tiene una visión integral del ciclo de vida del software y está comprometido con la escritura de código limpio, mantenible y eficiente, enfocado siempre en la calidad, el rendimiento y la experiencia del usuario.
 
-Analista de Datos con sólida experiencia en el manejo de grandes volúmenes de información utilizando SQL (PostgreSQL, MySQL, SQL Server) y tecnologías Big Data. Experto en desarrollo backend con Java, Python y C#, así como en frameworks como Spring Boot y Django.
-
-Apasionado por la escritura de código limpio, eficiente y escalable, enfocado en la obtención de insights accionables y soluciones óptimas para la toma de decisiones en el sector agrícola y otros ámbitos. Proactivo, responsable y con alta capacidad de aprendizaje, adaptación y resolución de problemas técnicos complejos.
-
+### Analista de datos
+Con sólida experiencia en el manejo de grandes volúmenes de información mediante SQL (PostgreSQL, MySQL, SQL Server) y tecnologías Big Data. Enfocado en extraer insights accionables que apoyen la toma de decisiones estratégicas, especialmente en el sector agrícola. Comprometido con la mejora continua, la resolución de problemas complejos y la aplicación de soluciones basadas en datos.
 ---
 
 ## 🚀 Proyectos Destacados
