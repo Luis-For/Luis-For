@@ -1,4 +1,4 @@
-<img src="../Luis-For/img/github-header-image.png"/img>
+<img src="../Luis-For/img/github-header-image.png"/>
 
 ---
 
