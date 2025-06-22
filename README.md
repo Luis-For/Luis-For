@@ -1,4 +1,4 @@
-![Header](../Luis-For/img/github-header-image.png)
+<img src="../Luis-For/img/github-header-image.png"/img>
 ---
 
 # Luis Ángel Fornaris Rodríguez  
@@ -7,7 +7,8 @@ Santa Marta, Colombia
 📞 305 4398894
 ✉️ [luisfor90@gmail.com](mailto:luisfor90@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/luis-%C3%A1ngel-fornaris-rodr%C3%ADguez-2146561a2/)
-  <br/><img src="../Luis-For/img/icon-svg/portfolio.svg" width="20"> Portafolio</img>
+  <br/>
+    <img src="../Luis-For/img/icon-svg/portfolio.svg" width="20"> Portafolio</img>
 
 ---
 
