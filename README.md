@@ -112,9 +112,9 @@ Estoy abierto a colaboraciones, nuevas oportunidades y proyectos desafiantes que
   margin: 0 auto; border-radius:18%; background-color:black;"/>
 </footer>
 
-<center>
+<div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=200&color=D946FF&center=true&multiline=true&width=500&height=58&lines=Mientras+estas+leyendo+esto%2C;podria+estar+mejorando+tu+codigo+%3A)](https://git.io/typing-svg)
-</center>
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=200&color=D946FF&center=true&multiline=true&width=500&height=58&lines=Mientras+estas+leyendo+esto%2C;podria+estar+mejorando+tu+codigo+%3A)](https://git.io/typing-svg)
+</div>
+
 
