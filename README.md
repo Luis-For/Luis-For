@@ -107,19 +107,15 @@ Muchas gracias por visitar mi perfil.
 Estoy abierto a colaboraciones, nuevas oportunidades y proyectos desafiantes que me permitan aprender, mejorar y aportar valor con las nuevas tecnologias.
 
 ---
-<footer style="padding:25px;">
+<footer style="padding:10px;">
   <img 
     src="https://img.icons8.com/?size=80&id=Dr0n9Rgyl5Lp&format=png&color=000000"
     style="
-      display: block;
-      margin: 0 auto;
-      opacity: 0.7;
-      border-radius: 18%;
+      opacity: 8;
+      border-radius: 20%;
       background-color: black;
     "
   />
 
-  <br/>
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=200&color=D946FF&center=true&multiline=true&width=500&height=58&lines=Mientras+estas+leyendo+esto%2C;podria+estar+mejorando+tu+codigo+)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=200&color=D946FF&false=true&multiline=true&width=500&height=58&lines=Mientras+estas+leyendo+esto%2C;podria+estar+mejorando+tu+codigo+)](https://git.io/typing-svg)
 </footer>
