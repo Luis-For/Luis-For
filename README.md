@@ -1,7 +1,7 @@
 <img src="./img/github-header-image.png"/>
 
 ---
-# Luis Ángel Fornaris Rodríguez  
+# Luis Ángel Fornaris Rodríguez
 **Desarrollador**  
 Santa Marta, Colombia  
 <img src="https://img.icons8.com/?size=100&id=11835&format=png&color=000000" width="22" style="vertical-align: middle;"/>Telefono: 305 4398894 
@@ -10,16 +10,17 @@ Santa Marta, Colombia
 <br/>
 🔗 [LinkedIn](https://www.linkedin.com/in/luis-%C3%A1ngel-fornaris-rodr%C3%ADguez-2146561a2/)
 <br/>
-<img src="https://img.icons8.com/?size=100&id=naDnVpQ3BNkR&format=png&color=000000" width="20" style="vertical-align: middle;"> Portafolio</img>
+[<img src="https://img.icons8.com/?size=100&id=naDnVpQ3BNkR&format=png&color=000000" width="20" style="vertical-align: middle;"> Portafolio</img>](https://mi-portafolio-web-one.vercel.app/)
 
 ---
 
 ## Perfil
 ### Desarrollador Full Stack
-Especializado en el desarrollo backend con Java y NodeJs, he utilizado frameworks como Spring Boot Nest.Js para crear aplicaciones robustas, seguras y escalables, poseo sólidos conocimientos en frontend, dominando Angular y Vue.js para la construcción de interfaces gráficas modernas, intuitivas y responsivas. <br/> 
+Desarrollador especializado en el desarrollo backend con Java y NodeJs, he utilizado diferentes frameworks como Spring Boot y Nest.Js para crear aplicaciones robustas, seguras y escalables, poseo sólidos conocimientos en frontend, dominando Angular y Vue.js para la construcción de interfaces gráficas modernas, intuitivas y responsivas. <br/> 
 Tengo una visión integral del ciclo de vida del software y soy muy comprometido con la escritura de código limpio, mantenible y eficiente, enfocandome siempre en la calidad, el rendimiento y la experiencia del usuario.
 <br/>
 Soy una persona muy responsable, atenta que le gusta trabajar en equipo para encontrar la mejor solución posible.
+Apasionado por la tecnologia y el desarrollo.
 
 ---
 
@@ -92,12 +93,45 @@ Soy una persona muy responsable, atenta que le gusta trabajar en equipo para enc
 
 ## 📬 Contactame
 
-- Email: [luisfor90@gmail.com](mailto:luisfor90@gmail.com)  
-- LinkedIn: [https://www.linkedin.com/in/luis-%C3%A1ngel-fornaris-rodr%C3%ADguez-2146561a2/](https://www.linkedin.com/in/luis-%C3%A1ngel-fornaris-rodr%C3%ADguez-2146561a2/)  
-- Teléfono: +57 305 4398894
+<img src="https://img.icons8.com/?size=100&id=11835&format=png&color=000000" width="22" style="vertical-align: middle;"/>Telefono: (+57) 3054398894 
+<br/>
+<img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="18" style="vertical-align: middle;"/> Email: [luisfor90@gmail.com](mailto:luisfor90@gmail.com)
+<br/>
+🔗 [LinkedIn](https://www.linkedin.com/in/luis-%C3%A1ngel-fornaris-rodr%C3%ADguez-2146561a2/)
+<br/>
 
 ---
 
 Muchas gracias por visitar mi perfil.
 <br/>
 Estoy abierto a colaboraciones, nuevas oportunidades y proyectos desafiantes que me permitan aprender, mejorar y aportar valor con las nuevas tecnologias.
+
+---
+<footer style="padding:30px; text-align:center;">
+
+  <style>
+    @keyframes gradiente {
+      0% { background-position: 0% 50%; }
+      100% { background-position: 100% 50%; }
+    }
+    .texto {
+      font-size: 16px;
+      font-weight: 500;
+      background: linear-gradient(90deg, #25ff7a, #3fa9ff, #d946ff);
+      background-size: 300% 300%;
+      animation: gradiente 3s linear infinite;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      color: transparent;
+    }
+  </style>
+  <img src="https://img.icons8.com/?size=80&id=Dr0n9Rgyl5Lp&format=png&color=000000" style="opacity:0.7; display: block;
+  margin: 0 auto; border-radius:20%; background-color:black;"/>
+  <div class="texto">
+    Mientras estas leyendo esto, podria estar mejorando tu codigo :)
+  </div>
+</footer>
+
+<br>
+
