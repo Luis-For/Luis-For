@@ -108,30 +108,13 @@ Estoy abierto a colaboraciones, nuevas oportunidades y proyectos desafiantes que
 
 ---
 <footer style="padding:30px; text-align:center;">
-
-  <style>
-    @keyframes gradiente {
-      0% { background-position: 0% 50%; }
-      100% { background-position: 100% 50%; }
-    }
-    .texto {
-      font-size: 16px;
-      font-weight: 500;
-      background: linear-gradient(90deg, #25ff7a, #3fa9ff, #d946ff);
-      background-size: 300% 300%;
-      animation: gradiente 3s linear infinite;
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      background-clip: text;
-      color: transparent;
-    }
-  </style>
   <img src="https://img.icons8.com/?size=80&id=Dr0n9Rgyl5Lp&format=png&color=000000" style="opacity:0.7; display: block;
-  margin: 0 auto; border-radius:20%; background-color:black;"/>
-  <div class="texto">
-    Mientras estas leyendo esto, podria estar mejorando tu codigo :)
-  </div>
+  margin: 0 auto; border-radius:18%; background-color:black;"/>
 </footer>
 
+<center>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=200&color=D946FF&center=true&multiline=true&width=500&height=58&lines=Mientras+estas+leyendo+esto%2C;podria+estar+mejorando+tu+codigo+%3A)](https://git.io/typing-svg)
+</center>
 <br>
 
