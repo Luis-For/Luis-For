@@ -114,6 +114,7 @@ Estoy abierto a colaboraciones, nuevas oportunidades y proyectos desafiantes que
       0% { background-position: 0% 50%; }
       100% { background-position: 100% 50%; }
     }
+
     .texto {
       font-size: 16px;
       font-weight: 500;
@@ -125,6 +126,7 @@ Estoy abierto a colaboraciones, nuevas oportunidades y proyectos desafiantes que
       background-clip: text;
       color: transparent;
     }
+    
   </style>
   <img src="https://img.icons8.com/?size=80&id=Dr0n9Rgyl5Lp&format=png&color=000000" style="opacity:0.7; display: block;
   margin: 0 auto; border-radius:20%; background-color:black;"/>
