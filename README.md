@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C6BC0,100:D946FF&height=220&section=header&text=Luis%20Ángel%20Fornaris&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20Full%20Stack%20%7C%20Java%20%C2%B7%20Node.js%20%C2%B7%20Spring%20Boot&descAlignY=58&descSize=18&animation=fadeIn"/>
 
+<img src="./img/github-header-image.png" width="100%"/>
+
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=D946FF&center=true&vCenter=true&width=650&lines=%3E+whoami;Desarrollador+Full+Stack+%F0%9F%92%BB;Java+%7C+Node.js+%7C+Spring+Boot+%7C+NestJS;Angular+%7C+Vue.js;5%2B+proyectos+en+producci%C3%B3n+y+contando...)](https://git.io/typing-svg)
@@ -15,6 +17,16 @@
 [![WhatsApp](https://img.shields.io/badge/305%20439%208894-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573054398894)
 
 📍 **Santa Marta, Colombia**
+
+<br/>
+
+<a href="#-sobre-mí">Sobre mí</a> ·
+<a href="#-proyectos-destacados">Proyectos</a> ·
+<a href="#️-arsenal-tecnológico">Stack</a> ·
+<a href="#-dashboard-de-actividad">Actividad</a> ·
+<a href="#-trayectoria-académica">Educación</a> ·
+<a href="#-formación-continua">Cursos</a> ·
+<a href="#-hablemos">Contacto</a>
 
 </div>
 
@@ -76,6 +88,17 @@ $ _
 <br/>
 
 ## 🚀 Proyectos Destacados
+
+<div align="center">
+
+<a href="https://github.com/Luis-For/MorphoKey-ui-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-For&repo=MorphoKey-ui-backend&theme=tokyonight&hide_border=true" height="165"/></a>
+<a href="https://github.com/Luis-For/Api-futbol"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-For&repo=Api-futbol&theme=tokyonight&hide_border=true" height="165"/></a>
+<a href="https://github.com/Luis-For/BigDatatTest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-For&repo=BigDatatTest&theme=tokyonight&hide_border=true" height="165"/></a>
+<a href="https://github.com/Luis-For/DataBaseFootball"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-For&repo=DataBaseFootball&theme=tokyonight&hide_border=true" height="165"/></a>
+
+</div>
+
+<br/>
 
 <table>
   <tr>
@@ -179,6 +202,51 @@ $ _
 </div>
 
 > 💡 Estos widgets se actualizan solos con tu actividad real en GitHub — no requieren mantenimiento manual. Si alguno aparece vacío es por repos privados o poca actividad pública reciente.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Luis-For/Luis-For/output/github-contribution-grid-snake.svg" width="80%"/>
+
+</div>
+
+<details>
+<summary>⚙️ ¿Cómo activo esta animación? (clic para expandir)</summary>
+<br/>
+
+Este efecto se genera con una **GitHub Action** que corre automáticamente cada día. Pasos:
+
+1. En el repo `Luis-For/Luis-For`, crea la carpeta `.github/workflows/` y agrega un archivo `snake.yml` con:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Luis-For
+          outputs: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+2. Habilita permisos de escritura para Actions en `Settings → Actions → General → Workflow permissions`.
+3. Corre la Action una vez manualmente (`workflow_dispatch`) y listo — se actualizará sola cada día.
+
+</details>
 
 <br/>
 
