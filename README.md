@@ -331,7 +331,7 @@ Desarrollo de una aplicación web orientada a la identificación y clasificació
 <td colspan="2"></td>
 </tr>
 <tr>
-<td align="center">🔵</td>
+<td align="center">►</td>
 <td><img src="https://img.shields.io/badge/2018-5C6BC0?style=for-the-badge"/></td>
 <td>
 
@@ -363,7 +363,7 @@ Desarrollo de una aplicación web orientada a la identificación y clasificació
 <td colspan="2"></td>
 </tr>
 <tr>
-<td align="center">🔵</td>
+<td align="center">►</td>
 <td><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/></td>
 <td>
 
@@ -388,6 +388,8 @@ Desarrollo de una aplicación web orientada a la identificación y clasificació
 </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C6BC0,100:D946FF&height=2&section=header"/>
+</br>
 <div align="center">
 <img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white"/>
 </div>
@@ -399,11 +401,9 @@ Desarrollo de una aplicación web orientada a la identificación y clasificació
 </tr>
 <tr>
 <td align="center" width="90">🟢</td>
-<td><i>➜ Agrega aquí tu próximo curso o ruta de Platzi</i></td>
+<td><i>Curso de React Native</i></td>
 </tr>
 </table>
-
-<sub>💡 Cuéntame qué cursos o rutas de Platzi completaste y te los dejo listados aquí con el formato correcto (con sus badges e íconos).</sub>
 
 <br/>
 
