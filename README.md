@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C6BC0,100:D946FF&height=220&section=header&text=Luis%20Ángel%20Fornaris&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20Full%20Stack%20%7C%20Java%20%C2%B7%20Node.js%20%C2%B7%20Spring%20Boot&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-<img src="./img/github-header-image.png" width="100%"/>
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=D946FF&center=true&vCenter=true&width=650&lines=%3E+whoami;Desarrollador+Full+Stack+%F0%9F%92%BB;Java+%7C+Node.js+%7C+Spring+Boot+%7C+NestJS;Angular+%7C+Vue.js;5%2B+proyectos+en+producci%C3%B3n+y+contando...)](https://git.io/typing-svg)
@@ -90,18 +88,7 @@ $ _
 
 ## 🚀 Proyectos Destacados
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C6BC0,100:D946FF&height=2&section=header"/>
-
-<div align="center">
-
-<a href="https://github.com/Luis-For/MorphoKey-ui-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-For&repo=MorphoKey-ui-backend&theme=tokyonight&hide_border=true" height="165"/></a>
-<a href="https://github.com/Luis-For/Api-futbol"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-For&repo=Api-futbol&theme=tokyonight&hide_border=true" height="165"/></a>
-<a href="https://github.com/Luis-For/BigDatatTest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-For&repo=BigDatatTest&theme=tokyonight&hide_border=true" height="165"/></a>
-<a href="https://github.com/Luis-For/DataBaseFootball"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-For&repo=DataBaseFootball&theme=tokyonight&hide_border=true" height="165"/></a>
-
-</div>
-
 <br/>
-
 <table>
   <tr>
     <th align="left">Proyecto</th>
@@ -192,66 +179,21 @@ $ _
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C6BC0,100:D946FF&height=2&section=header"/>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Luis-For&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=Luis-For&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-For&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luis-For&theme=tokyo-night&hide_border=true&area=true" width="65%"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Luis-For&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
-
 </div>
 
-> 💡 Estos widgets se actualizan solos con tu actividad real en GitHub — no requieren mantenimiento manual. Si alguno aparece vacío es por repos privados o poca actividad pública reciente.
+> Actividad real
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Luis-For/Luis-For/output/github-contribution-grid-snake.svg" width="80%"/>
 
 </div>
-
-<details>
-<summary>⚙️ ¿Cómo activo esta animación? (clic para expandir)</summary>
-<br/>
-
-Este efecto se genera con una **GitHub Action** que corre automáticamente cada día. Pasos:
-
-1. En el repo `Luis-For/Luis-For`, crea la carpeta `.github/workflows/` y agrega un archivo `snake.yml` con:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 5 * * *"
-  push:
-    branches: [ main ]
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Luis-For
-          outputs: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-2. Habilita permisos de escritura para Actions en `Settings → Actions → General → Workflow permissions`.
-3. Corre la Action una vez manualmente (`workflow_dispatch`) y listo — se actualizará sola cada día.
-
-</details>
-
 <br/>
 
 ## 🎓 Trayectoria Académica
@@ -274,7 +216,7 @@ jobs:
 <td colspan="2"></td>
 </tr>
 <tr>
-<td align="center">🔵</td>
+<td align="center">►</td>
 <td><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/></td>
 <td>
 
@@ -288,7 +230,7 @@ jobs:
 <td colspan="2"></td>
 </tr>
 <tr>
-<td align="center">🔵</td>
+<td align="center">►</td>
 <td><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/></td>
 <td>
 
@@ -329,15 +271,15 @@ jobs:
 </tr>
 <tr>
 <td align="center" width="90">🟢</td>
-<td><i>➜ Agrega aquí tu próximo curso o ruta de Platzi</i></td>
+<td><i>Curso de React</i></td>
 </tr>
 <tr>
 <td align="center" width="90">🟢</td>
-<td><i>➜ Agrega aquí tu próximo curso o ruta de Platzi</i></td>
+<td><i>Curso de Nest.js</i></td>
 </tr>
 </table>
 
-<sub>💡 Cuéntame qué cursos o rutas de Platzi completaste y te los dejo listados aquí con el formato correcto (con sus badges e íconos).</sub>
+<sub>Si quieres ver más entra a mi perfil</sub>
 
 <br/>
 
