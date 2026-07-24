@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=D946FF&center=true&vCenter=true&width=650&lines=%3E+whoami;Desarrollador+Full+Stack+%F0%9F%92%BB;Java+%7C+Node.js+%7C+Spring+Boot+%7C+NestJS;Angular+%7C+Vue.js;5%2B+proyectos+en+producci%C3%B3n+y+contando...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=D946FF&center=true&vCenter=true&width=650&lines=%3E+whoami;Desarrollador+Full+Stack+%F0%9F%92%BB;Java+%7C+Node.js+%7C+Spring+Boot+%7C+NestJS;Angular+%7C+Vue.js;5%2B+proyectos+en+producci%C3%B3n+y+contando...)](https://git.io/typing-svg)
 
 <br/>
 
@@ -39,6 +39,7 @@
 </div>
 
 ## 🧠 Sobre mí
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C6BC0,100:D946FF&height=2&section=header"/>
 
 <table>
 <tr>
@@ -88,6 +89,7 @@ $ _
 <br/>
 
 ## 🚀 Proyectos Destacados
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C6BC0,100:D946FF&height=2&section=header"/>
 
 <div align="center">
 
@@ -142,6 +144,7 @@ $ _
 <br/>
 
 ## 🛠️ Arsenal Tecnológico
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C6BC0,100:D946FF&height=2&section=header"/>
 
 <table>
 <tr>
@@ -186,11 +189,12 @@ $ _
 <br/>
 
 ## 📈 Dashboard de Actividad
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C6BC0,100:D946FF&height=2&section=header"/>
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Luis-For&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Luis-For&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Luis-For&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-For&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luis-For&theme=tokyo-night&hide_border=true&area=true" width="65%"/>
@@ -251,56 +255,59 @@ jobs:
 <br/>
 
 ## 🎓 Trayectoria Académica
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C6BC0,100:D946FF&height=2&section=header"/>
 
 <table>
 <tr>
-<td align="center" width="130">
-<img src="https://img.shields.io/badge/2020%20—%202025-5C6BC0?style=for-the-badge"/>
-</td>
+<td align="center" width="36">🟣</td>
+<td width="150"><img src="https://img.shields.io/badge/2020%20—%202025-5C6BC0?style=for-the-badge"/></td>
 <td>
 
 **🎓 Ingeniería de Sistemas**
-<br/>
-Universidad del Magdalena
-<br/>
-<sub>Participación activa en proyectos de investigación y desarrollo académico.</sub>
+<br/>Universidad del Magdalena
+<br/><sub>Participación activa en proyectos de investigación y desarrollo académico.</sub>
 
 </td>
 </tr>
-<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:D946FF,100:5C6BC0&height=2&section=header"/></td></tr>
 <tr>
-<td align="center" width="130">
-<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
-</td>
+<td align="center">┃</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td align="center">🔵</td>
+<td><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/></td>
 <td>
 
 **Java de Cero a Profesional**
-<br/>
-<sub>POO, manejo de excepciones, HTTP y archivos.</sub>
+<br/><sub>POO, manejo de excepciones, HTTP y archivos.</sub>
 
 </td>
 </tr>
 <tr>
-<td align="center" width="130">
-<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
-</td>
+<td align="center">┃</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td align="center">🔵</td>
+<td><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/></td>
 <td>
 
 **Ciencia de Datos con Python**
-<br/>
-<sub>Desde básico hasta avanzado.</sub>
+<br/><sub>Desde básico hasta avanzado.</sub>
 
 </td>
 </tr>
 <tr>
-<td align="center" width="130">
-<img src="https://img.shields.io/badge/Código%20Facilito-1E88E5?style=for-the-badge"/>
-</td>
+<td align="center">┃</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td align="center">🟢</td>
+<td><img src="https://img.shields.io/badge/Código%20Facilito-1E88E5?style=for-the-badge"/></td>
 <td>
 
 **Git · Docker · Spring Boot · Big Data**
-<br/>
-<sub>Certificaciones prácticas orientadas a proyectos reales.</sub>
+<br/><sub>Certificaciones prácticas orientadas a proyectos reales.</sub>
 
 </td>
 </tr>
@@ -309,6 +316,7 @@ Universidad del Magdalena
 <br/>
 
 ## 📚 Formación Continua
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C6BC0,100:D946FF&height=2&section=header"/>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white"/>
@@ -333,9 +341,8 @@ Universidad del Magdalena
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C6BC0,100:D946FF&height=3&section=header"/>
-
 ## 📬 Hablemos
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C6BC0,100:D946FF&height=2&section=header"/>
 
 <div align="center">
 
@@ -350,7 +357,7 @@ Estoy abierto a colaboraciones, nuevas oportunidades y proyectos desafiantes que
 
 Muchas gracias por visitar mi perfil ✨
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=200&color=D946FF&center=true&vCenter=true&multiline=true&width=520&height=60&lines=Mientras+est%C3%A1s+leyendo+esto%2C;podr%C3%ADa+estar+mejorando+tu+c%C3%B3digo+%F0%9F%98%84)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=D946FF&center=true&vCenter=true&multiline=true&width=520&height=60&lines=Mientras+est%C3%A1s+leyendo+esto%2C;podr%C3%ADa+estar+mejorando+tu+c%C3%B3digo+%F0%9F%98%84)](https://git.io/typing-svg)
 
 </div>
 
