@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C6BC0,100:D946FF&height=220&section=header&text=Luis%20Ángel%20Fornaris&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20Full%20Stack%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Next.js%20%C2%B7%20React%20Native&descAlignY=58&descSize=16&animation=fadeIn"/>
 
-<img src="./img/github-header-image.png" width="100%"/>
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=D946FF&center=true&vCenter=true&width=650&lines=%3E+whoami;Desarrollador+Full+Stack+%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+Node.js;React+%7C+Next.js+%7C+React+Native;Construyendo+plataformas+corporativas+desde+2025)](https://git.io/typing-svg)
@@ -16,7 +14,7 @@
 [![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mi-portafolio-web-one.vercel.app/)
 [![WhatsApp](https://img.shields.io/badge/305%20439%208894-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573054398894)
 
-📍 **Santa Marta, Magdalena, Colombia**
+**Santa Marta, Magdalena, Colombia**
 
 <br/>
 
@@ -169,11 +167,6 @@ Desarrollo de una aplicación web orientada a la identificación y clasificació
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5C6BC0,100:D946FF&height=2&section=header"/>
 
 <div align="center">
-
-<a href="https://github.com/Luis-For/MorphoKey-ui-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-For&repo=MorphoKey-ui-backend&theme=tokyonight&hide_border=true" height="165"/></a>
-<a href="https://github.com/Luis-For/Api-futbol"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-For&repo=Api-futbol&theme=tokyonight&hide_border=true" height="165"/></a>
-<a href="https://github.com/Luis-For/BigDatatTest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-For&repo=BigDatatTest&theme=tokyonight&hide_border=true" height="165"/></a>
-<a href="https://github.com/Luis-For/DataBaseFootball"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Luis-For&repo=DataBaseFootball&theme=tokyonight&hide_border=true" height="165"/></a>
 
 </div>
 
